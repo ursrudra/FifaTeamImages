@@ -34,3 +34,7 @@ const teamsData = [
   {id: 32, country: 'Japan', color:'rgba(188,0,45,0.6)' , teamimage:'https://img.fifa.com/image/upload/t_l5/zyuft4plw4zldep8psz9.jpg', history:'' },
   
 ];
+
+
+// need to update the background size property - backgroundSize: cover
+//add bottom margin
